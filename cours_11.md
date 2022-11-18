@@ -2,10 +2,12 @@
 ## Rétrospective de la présentation 2
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
+- Le montage
+- Alaise à parler à la caméra
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
+- La qualité de mon micro, de temps en temps, le son de mon micro était trop bas. Je vais essayer de parler plus fort la prochaine fois.
+- La clareté de l'expliquation, je n'expliquais pas toujours bien les étapes. Je vais préparer mon texte à l'avance la prochaine fois.
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+J'ai préféré la présentation 2, car elle m'a permis d'utiliser Adobe Premiere Pro et j'aime faire du montage.
